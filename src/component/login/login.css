@@ -1,0 +1,35 @@
+body {
+    background-color: #fedc63 !important;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-form-forgot {
+    float: right;
+}
+
+.ant-col-rtl .login-form-forgot {
+    float: left;
+}
+
+.login-form-button {
+    width: 100%;
+}
+
+.ant-form-item {
+    width: 100%;
+}
+.ant-layout{
+    flex-direction: inherit !important;
+   
+}
+.btn{
+   
+   width: 25%;
+}
